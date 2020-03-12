@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-again",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dswhitely1/portfolio-again.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dswhitely1/portfolio-again/issues"
+  },
+  "homepage": "https://github.com/dswhitely1/portfolio-again#readme"
+}
